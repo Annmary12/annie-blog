@@ -1,13 +1,12 @@
 ---
 title: Home
 sections:
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: Get Started
-        url: /generic
+  - actions: []
     component: Intro
-    content: Welcome To My Portfolio
+    content: |-
+      ![ALL Text](/images/pic02.jpg)
+
+      Welcome To My Portfolio
     img_path: /images/5776256040339545804__mg_3695.jpg
     title: Annmary Agunanna
     type: intro
