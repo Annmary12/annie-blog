@@ -4,9 +4,7 @@ sections:
   - component: Intro
     content: >-
       > Highly motivated, hardworking individual with over three years of
-      experience in software development. She is passionate for computing and
-      software development in a fast-paced and diverse workplace.Never afraid of
-      learning new things, loves challenges and solving human problems.
+      experience in software development
     img_path: /images/pic01.jpg
     title: Annmary Agunanna
     type: intro
