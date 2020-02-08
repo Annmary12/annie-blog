@@ -4,7 +4,7 @@ sections:
   - actions: []
     component: Intro
     content: |-
-      ![ALL Text](/images/pic02.jpg)
+      ![]()
 
       Welcome To My Portfolio
     img_path: /images/5776256040339545804__mg_3695.jpg
@@ -65,6 +65,9 @@ sections:
       turpis mauris, ultricies erat malesuada quis.
     title: Amet ullamcorper
     type: mission
+  - component: Intro
+    title: Reflex
+    type: intro
 menus:
   main:
     title: Home
