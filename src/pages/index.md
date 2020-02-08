@@ -2,15 +2,8 @@
 title: Home
 sections:
   - component: Intro
-    content: >-
-      I’m a highly motivated, hardworking individual with over three years of
-      experience in software development. I have a high passion for computing
-      and software development in a fast-paced and diverse workplace. I also
-      pride myself with exceptional and proven organisational/ team skills. I'm
-      never afraid of learning something new, I love challenges and solving
-      problems.
-    img_path: /images/5776256040339545804__mg_3695.jpg
-    title: Annmary Agunanna
+    img_path: /images/pic01.jpg
+    title: Reflex
     type: intro
   - actions:
       - is_primary: false
@@ -25,9 +18,7 @@ sections:
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
+    subtitle: ''
     title: List of my recent projects
     type: spotlight
   - actions:
