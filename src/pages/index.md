@@ -2,8 +2,15 @@
 title: Home
 sections:
   - component: Intro
+    content: >-
+      > Highly motivated, hardworking individual with over three years of
+      experience in software development. She is passionate for computing and
+      software development in a fast-paced and diverse workplace. She prides
+      herself with exceptional and proven organisational/ team skills. Never
+      afraid of learning new things, loves challenges and solving human
+      problems.
     img_path: /images/pic01.jpg
-    title: Reflex
+    title: Annmary Agunanna
     type: intro
   - actions:
       - is_primary: false
