@@ -2,10 +2,8 @@
 title: Home
 sections:
   - component: Intro
-    content: >-
-      > Highly motivated, hardworking individual with over three years of
-      experience in software development
-    img_path: /images/pic01.jpg
+    content: Frontend Developer
+    img_path: /images/5776256040339545804__mg_3695.jpg
     title: Annmary Agunanna
     type: intro
   - actions:
